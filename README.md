@@ -35,7 +35,7 @@
 - ⚛️ Building responsive and modern web applications with React
 - 🔧 Developing scalable backend systems using Node.js & Express.js
 - 🗄️ Working with MongoDB for efficient database management
-- 🔥 Solving DSA problems regularly using C++
+- 🔥 Practicing Data Structures & Algorithms using C++
 - 🐍 Exploring Python and TypeScript
 - 🚀 Turning ideas into real-world products through code
 - 📚 Learning System Design, Backend Architecture & Best Practices
