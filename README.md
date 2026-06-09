@@ -29,7 +29,7 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN3eW95bWx3N3JydHc4cnl5cG9saWN1d2FvN3J4YmR4Y2M1aDZvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 💻 Full Stack Developer specializing in MERN Stack
 - ⚛️ Building responsive and modern web applications with React
