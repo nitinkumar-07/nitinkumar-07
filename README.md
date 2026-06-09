@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Nitin+Kumar;Full+Stack+Developer+(MERN);React+•+Node.js+•+MongoDB+•+Express•+Typescript;Building+Real+World+Projects;DSA+Enthusiast;" />
 </h1>
 
-<h3 align="center">🚀 MERN Stack Developer | Crafting Modern & Scalable Web Applications</h3>
+<h3 align="center">🚀⚛️ MERN Stack Developer | Crafting Clean Code, Seamless UI & Powerful Backends</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nitin-kumar-491813336/">
